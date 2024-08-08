@@ -78,7 +78,7 @@ body {
 }
 .blog-post-card3-image {
   width: 500px;
-  object-fit: cover;
+  height: 350px;
 }
 .blog-post-card3-container {
   flex: 1;
